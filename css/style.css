@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to right, #2e3a7e 0%, #0d115d 60% );
+}
+ 
+
+ 
+#menu{
+    border: 2px solid #E6E6FA;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: purple;
+    background-color: #03174f;
+}
+ 
+#entrada{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+ 
+#titulo{
+    text-align: center;
+    text-transform: uppercase;
+    color:         #0e2d96;
+    background-color: #ffffff;
+    box-shadow: 3px 2px 2px 2px #77a2cc;
+}
+ul{
+    margin: 0;
+    padding: 10px;
+}
+ 
+li{
+    display: flow-root;
+    padding: 10px;
+    
+}
+ 
+li a{
+    text-decoration-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300px;
+    
+}
+ 
+li a:hover{
+    font-size: 30px;
+   
+}
